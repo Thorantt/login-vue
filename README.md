@@ -1,0 +1,1 @@
+This is a simple laravel-vue based login system.
